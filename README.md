@@ -5,7 +5,7 @@ The size of the file is too big to be held in the memory during sorting. This al
 Sorting algorithm consists of two phases: Sort phase followed by Merge phase
 
 ------------------------------------------------
-Input Format: 
+             Input Format: 
  ------------------------------------------------
 metadata.txt (considered in the same folder as your executable file) about the column size. 
 <column name 1>,<size of the column> 
@@ -17,8 +17,8 @@ input.txt
 Containing the records with the column values separated by the space. 
 All the values will be in the string only. 
 
- ------------------------------------------------
-Command Line Inputs 
+------------------------------------------------
+         Command Line Inputs: 
 ------------------------------------------------
 1. Input file name (containing the raw records) 
 2. Ouput file name (containing sorted records) 
